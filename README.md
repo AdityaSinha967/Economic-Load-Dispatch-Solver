@@ -1,6 +1,6 @@
 # AI-Based Economic Load Dispatch (ELD) using Machine Learning
 
-A runnable starter project that uses a conventional constrained ELD optimizer to create labelled data, trains several regression models, and compares ML dispatch predictions with the optimization reference. A small projection step attempts to enforce generator limits and power balance before reporting the ML dispatch.
+A runnable starter project that uses a conventional constrained ELD optimizer to create labelled data, trains several regression models, and compares ML dispatch predictions with the optimization reference. A small projection step attempts to enforce generator limits and power balance before reporting the ML dispatch. Live Link https://economic-load-dispatch-solver-vcfi7hqtmwgqrbglcr9pq2.streamlit.app/
 
 ## Project structure
 
